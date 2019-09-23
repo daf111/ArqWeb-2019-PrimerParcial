@@ -12,3 +12,10 @@ Temas desarrollados:
   - HTML, CSS y Javascript
   - ASP.NET MVC
   - SQL Server
+
+# Importante
+
+El script que genera la base de datos se encuentra en: 
+```sh
+~/mvcPet.UI.Website/App_Data
+```
